@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: TIMSSAM # the main title
+title: 영어공장 블로그 # the main title
 
-tagline: English Contents Production # it will display as the subtitle
+tagline: 안녕하세요, 팀쌤입니다. 영어를 가르치면서 영어 교재 제작을 합니다. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  중학생 영어 교재, 고등학생 영어 문제지, 영어 학습 자료 제작, 영어 교재 판매, 고등학생 영어 모의고사 제작, 영어 교재 PDF 판매, 영어 문제집, 내신 영어, 수능 영어
+  중학생 영어 교재, 고등학생 영어 교재, 중학생 영어 문제지, 고등학생 영어 문제지, 영어 학습 자료 제작, 영어 교재 판매, 고등학생 영어 모의고사 변형 제작, 영어 교재 PDF 판매, 영어 문제집, 내신 영어, 수능 영어
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
